@@ -1,0 +1,39 @@
+*{
+  margin: 0;
+padding: 0;
+box-sizing: border-box;}
+
+
+body {
+    background-color: #ffffff; 
+}
+
+.navbar {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+
+
+.col-sm-6 {
+  flex: 0 0 auto;
+  width: 50%;
+}
+
+
+img, figure {
+  max-width: 100%;
+  height: auto;
+  vertical-align: middle;
+}
+
+
+
+.bg-secondary {
+background-color: #f6f9fc !important;
+}
+
+.text-center{
+  margin-top: 40px;
+}
